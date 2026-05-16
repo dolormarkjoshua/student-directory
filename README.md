@@ -199,9 +199,9 @@ class StudentFactory {
 // Student Data — Mark Joshua
 const studentsData = [
     {
-        id: "mark-joshua",
+        id: "mark joshua",
         name: "Mark Joshua",
-        shortDesc: "IT student focused on web development, clean code, and building useful applications.",
+        shortDesc: "Computer science student focused on web development, clean code, and building useful applications.",
         image: "https://picsum.photos/id/22/300/200",
         profileUrl: "students/mark-joshua.html",
         social: {
