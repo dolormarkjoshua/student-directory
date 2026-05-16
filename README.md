@@ -253,9 +253,4 @@ function setupSearch() {
     });
 }
 
-// Initialize
-document.addEventListener("DOMContentLoaded", () => {
-    renderStudents(students);
-    setupSearch();
-});
-#ffffff
+// In
